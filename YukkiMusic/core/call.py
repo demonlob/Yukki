@@ -44,7 +44,6 @@ from YukkiMusic.utils.exceptions import AssistantErr
 from YukkiMusic.utils.inline.play import (stream_markup,
                                           telegram_markup)
 from YukkiMusic.utils.stream.autoclear import auto_clean
-from YukkiMusic.utils.thumbnails import gen_thumb
 
 autoend = {}
 counter = {}
